@@ -53,22 +53,6 @@ stopwatch-app/
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Add images here if you're submitting or showcasing online:
-- Desktop View
-- Mobile View
-- Lap List Example
-
----
-
-## 🔗 Live Demo (Optional)
-
-> If you deploy it on GitHub Pages or similar, add:
-[Live Stopwatch Demo](https://jaihoonyaar.github.io/stopwatch-app/)
-
----
-
 ## 🙌 Acknowledgement
 
 This project was developed as part of the **Web Development Internship** at  
